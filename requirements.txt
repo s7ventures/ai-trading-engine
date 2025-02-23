@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+tensorflow
+scikit-learn
+langchain
