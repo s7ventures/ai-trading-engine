@@ -1,1 +1,1 @@
-# AI Trading Engine
+# ai-trading-engine
